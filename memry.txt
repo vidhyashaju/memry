@@ -1,0 +1,35 @@
+COMPUTER MEMORY
+
+The computer memory hold the data and instruction needed to process raw data and produce output
+
+  volatile memory
+  non volatile memory
+
+On behalf of space & location divided memory in to 4 types
+
+Register memory
+
+A register is the smallest element for data holding. It is built-in directly in a processor, and thus, the registers act as
+ certain memory locations that a processor can directly access in a computer.
+The processor accesses register faster than the memory. Computers registers are accumulator register, program counter,
+ instruction register, address register, etc.
+
+Cache memory
+
+       cache memory, also called cache, supplementary memory system that temporarily stores frequently used instructions 
+and data for quicker processing by the central processing unit (CPU) of a computer. The cache augments, and is an extension
+ of, a computer's main memory.
+
+Primary memory
+
+Primary memory is computer memory that a processor or computer accesses first or directly. It allows a processor to access
+ running execution .
+
+Examples: RAM, ROM, Cache memory, PROM, EPROM, Registers, etc.	
+
+Secondary memory
+
+Secondary memory is computer memory that is non-volatile, persistent and not immediately accessible by a computer or
+ processor. It allows users to store data and information that can be retrieved, transmitted, and used by apps and 
+services quickly and easily. Secondary storage is another name for secondary memory.
+Hard Drive, SSD, Flash, Optical Drive,USD Drive are some examples of secondary memories in computer
